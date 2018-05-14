@@ -1,0 +1,1 @@
+include ':app', ':obd-java-api', ':obd-java-api-1.0', ':MPAndroidChart-v3.0.1'
